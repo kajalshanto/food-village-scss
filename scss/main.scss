@@ -1,0 +1,40 @@
+@import '1-base/variables';
+// Helpers SCSS
+@import '2-helpers/mixins';
+@import '2-helpers/functions';
+
+// Base SCSS
+@import '1-base/reset';
+@import '1-base/globals';
+@import '1-base/typography';
+@import '2-helpers/helpers';
+
+
+
+// Components SCSS
+@import '3-components/overlay';
+@import '3-components/social_icons';
+
+
+// Layouts SCSS
+@import '4-layouts/header';
+@import '4-layouts/navbar';
+@import '4-layouts/about';
+@import '4-layouts/food_offer';
+@import '4-layouts/food_menu';
+@import '4-layouts/testimonials';
+@import '4-layouts/contact';
+@import '4-layouts/footer';
+
+
+
+
+
+
+
+
+// Responsive SCSS
+
+/**********************************************************
+****    Responsive Area as following ------------------->>>
+**********************************************************/

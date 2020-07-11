@@ -1,0 +1,14 @@
+.menu {
+    list-style-type: none;
+
+    &-item {
+        display: flex;
+        justify-content: space-between;
+        color: #707070;
+        line-height: 50px;
+    }
+
+    &-price {
+        color: $primary-color;
+    }
+}

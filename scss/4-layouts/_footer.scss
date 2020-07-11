@@ -1,0 +1,9 @@
+#footer {
+    @include sectionPadding(20px);
+    background-color: $bg-color;
+    color: $white-color;
+
+    p {
+        padding-top: 20px;
+    }
+}

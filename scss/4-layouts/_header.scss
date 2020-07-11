@@ -1,0 +1,19 @@
+.food-header {
+    width: 100%;
+    height: 600px;
+    background-image: url('../images/header.png');
+    clip-path: polygon(0 0, 100% 0, 100% 80%, 0% 100%);
+}
+
+.banner-head {
+    font-family: $brand-stack;
+    color: $white-color;
+    font-size: 100px;
+    font-weight: bold;
+}
+
+.banner-subhead {
+    font-size: 20px;
+    color: $white-color;
+    letter-spacing: 6px;
+}
